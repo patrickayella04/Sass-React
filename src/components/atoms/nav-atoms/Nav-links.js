@@ -15,7 +15,7 @@ function NavLinks() {
                 <li>About</li>
                 </Link>
                 <Link onClick={() => setOpen(!open)} to='/about' >
-                <li>V/Blog</li>
+                <li>Blog</li>
                 </Link> 
                 <Link onClick={() => setOpen(!open)} to='/contact' >
                 <li className="no-border">Contact</li>
