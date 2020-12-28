@@ -11,8 +11,12 @@ function ContactText() {
         <div className="text-area">
                    
             <div className="text contact-text">
-                    <SocialFollow />
+                <SocialFollow />
+                
+
+                
             </div>
+           
             
 
             </div>

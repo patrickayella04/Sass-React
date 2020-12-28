@@ -20,7 +20,8 @@ html {
   "info"
   "foot";
 }
-.nav-area{
+
+.nav-area {
   grid-area: nav;
   display: flex;
   justify-content: space-around;
@@ -31,7 +32,7 @@ html {
   color: $brandTitlesLinks;
   // color: blue;
 }
-.container {
+.container  {
   grid-area: main;
   background: url(./img/white-bubble-illustration-1111372.jpg) no-repeat 0 -100px;
   background-size: 100%;
@@ -145,7 +146,6 @@ nav .burger {
   background: $brandSocialMedia;
   padding: 25px 50px;
 
-
  }
  .email-social {
    padding: 20px;
@@ -242,5 +242,32 @@ a.github {
     color: $brandColor;
   }
   
+  
 }
-
+@media (max-width: 420px) {
+  .text-area {
+    font-size: 0.6em;
+    line-height: 20px;
+  }
+  .email-social {
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 500;
+    font-style: italic;
+    color:$brandEmail;
+  }
+  .social-container {
+    background: $brandSocialMedia;
+    padding: 10px;
+  
+   }
+  
+  .vlog-list li {
+    border: 1px solid grey;
+    margin: 10px;
+    text-align: left;
+    line-height: 20px;
+    padding: 10px;
+  }
+  
+}
