@@ -30,9 +30,9 @@ function App() {
 
       <h1>
         <Switch>
-          <Route path="/" component = {AboutPage} />
-          <Route path="/about" exact component = {HomePage} />
-          
+        AboutPage
+          <Route path="/" exact component = {AboutPage} />
+          <Route path="/about" component = {HomePage} />
           <Route path="/contact" component = {ContactPage} />
         </Switch>
       </h1>
