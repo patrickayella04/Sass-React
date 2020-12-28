@@ -13,6 +13,11 @@ function HomeText() {
             <br/>
             <ul className="vlog-list">
             <li>
+                    <a href="https://youtu.be/83XHwcjHu50">
+                        Rational Programming Ep 6  </a> <br/>
+                    Week in Reflection. 
+                </li>
+            <li>
                     <a href="https://youtu.be/1W97A6VMzA0">
                         Rational Programming Ep 5  </a> <br/>
                     What is an SDK?
