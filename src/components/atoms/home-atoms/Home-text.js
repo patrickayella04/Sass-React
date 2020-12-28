@@ -8,7 +8,7 @@ function HomeText() {
         
         <div className="text-area">
 
-            <h1>VLog</h1>
+            
             <h2>Follow my journey as I document my learing and challenges in web development!</h2>
             <br/>
             <ul className="vlog-list">
