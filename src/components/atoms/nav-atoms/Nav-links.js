@@ -11,10 +11,10 @@ function NavLinks() {
         <>
             <ul className="nav-links"style={{ transform: open ? "translateX(0px)" : "" }}>
                 
-                <Link onClick={() => setOpen(!open)} to='/about'>
+                <Link onClick={() => setOpen(!open)} to='/'>
                 <li>About</li>
                 </Link>
-                <Link onClick={() => setOpen(!open)} to='/' >
+                <Link onClick={() => setOpen(!open)} to='/about' >
                 <li>V/Blog</li>
                 </Link> 
                 <Link onClick={() => setOpen(!open)} to='/contact' >
