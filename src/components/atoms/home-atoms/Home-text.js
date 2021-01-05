@@ -15,7 +15,7 @@ function HomeText() {
             <li>
                     <a href="https://youtu.be/vTFpny3dg4Q">
                         Rational Programming Ep 7  </a> <br/>
-                        Learning about 'Class vs Function' Components!. 
+                        Learning about 'Class vs Function' Components! 
                 </li>
             <li>
                     <a href="https://youtu.be/83XHwcjHu50">
