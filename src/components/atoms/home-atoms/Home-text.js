@@ -13,6 +13,11 @@ function HomeText() {
             <br/>
             <ul className="vlog-list">
             <li>
+                    <a href="https://youtu.be/vTFpny3dg4Q">
+                        Rational Programming Ep 7  </a> <br/>
+                        Learning about 'Class vs Function' Components!. 
+                </li>
+            <li>
                     <a href="https://youtu.be/83XHwcjHu50">
                         Rational Programming Ep 6  </a> <br/>
                     Week in Reflection. 
