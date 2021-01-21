@@ -12,7 +12,7 @@ html {
 .body {
   
   display:grid;
-  grid-template-rows: 1fr 50vh auto 1fr;
+  grid-template-rows: 5fr 50vh auto 1fr;
   /* grid-template-columns: 2fr 2fr; */
   grid-template-areas: 
   "nav"
