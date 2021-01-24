@@ -13,6 +13,11 @@ function HomeText() {
             <br/>
             <ul className="vlog-list">
             <li>
+                    <a href="https://youtu.be/0sexvvpj6Rs">
+                        Rational Programming Ep 9  </a> <br/>
+                        Learning about turning class base components to functional components with React hooks!
+                </li>
+            <li>
                     <a href="https://youtu.be/ENKgDD2kLls">
                         Rational Programming Ep 8  </a> <br/>
                         Learning about component data structuring and props! 

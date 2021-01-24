@@ -48,7 +48,7 @@ html {
 }
 .about-container {
   background: url(./img/standing-white-t.JPG) no-repeat 0 -50px;
-  background-size: 60% ;
+  background-size: 50% ;
   background-position: center;
 }
 .contact-container {
@@ -63,6 +63,8 @@ html {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: lighter ;
   padding: 40px;
+  padding-top: 10px;
+
   text-align: center;
   line-height: 50px;
 }
