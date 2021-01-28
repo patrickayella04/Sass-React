@@ -13,6 +13,11 @@ function HomeText() {
             <br/>
             <ul className="vlog-list">
             <li>
+                    <a href="https://githubfinder0101.netlify.app">
+                        Study Project in React!  </a> <br/>
+                        Github Finder using useContext and useEffect hooks.
+                </li>
+            <li>
                     <a href="https://youtu.be/0sexvvpj6Rs">
                         Rational Programming Ep 9  </a> <br/>
                         Learning about turning class base components to functional components with React hooks!
